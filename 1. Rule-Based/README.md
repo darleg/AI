@@ -1,6 +1,6 @@
 #  Rule-Based
 
-An AI rule-based system is a decision-making framework that operates on a predefined set of if then rules to derive conclusions or perform actions. These systems are among the earliest forms of AI.
+An AI rule-based system is a decision-making framework that operates on a predefined set of if-then rules to derive conclusions or perform actions. These systems are among the earliest forms of AI.
 
 Core Components include:
 1.  Knowledge Base: Stores domain-specific rules and facts.
