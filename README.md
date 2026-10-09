@@ -5,6 +5,7 @@ AI is a very complex subject. AI has a wide range of technologies. Oh, I have al
 1. Rule-Based
    
    a. Logic programming
+   
    b. Expert System
 
 3.	Artificial Neural Network
