@@ -1,0 +1,1 @@
+#  Rule‑based logic programmingRule‑based logic programming combines declarative rule specification with an inference engine that applies rules to derive conclusions. Two common approaches are CLIPS (rule‑based expert systems) and Prolog (logic programming).
