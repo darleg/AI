@@ -1,1 +1,17 @@
-#  Rule-BasedAn AI rule-based system is a decision-making framework that operates on a predefined set of if then rules to derive conclusions or perform actions. These systems are among the earliest forms of AI.Core Components include:1.  Knowledge Base: Stores domain-specific rules and facts.2.	Inference Engine: Matches facts against rules and executes actions.3.	User Interface: Facilitates interaction between the system and users.Applications:Expert Systems – Medical diagnosis, financial risk assessment.2.	Decision Support – Manufacturing scheduling, customer support.3.	Control Systems – Traffic light automation, smart home devices.
+#  Rule-Based
+
+An AI rule-based system is a decision-making framework that operates on a predefined set of if-then rules to derive conclusions or perform actions. These systems are among the earliest forms of AI.
+
+Core Components include:
+1.  Knowledge Base: Stores domain-specific rules and facts.
+
+2.	Inference Engine: Matches facts against rules and executes actions.
+
+3.	User Interface: Facilitates interaction between the system and users.
+
+Applications:
+1. Expert Systems – Medical diagnosis, financial risk assessment.
+
+2.	Decision Support – Manufacturing scheduling, customer support.
+
+3.	Control Systems – Traffic light automation, smart home devices.
