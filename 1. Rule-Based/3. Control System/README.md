@@ -1,1 +1,1 @@
-#  Control SystemRuleBasedControl.py is a minimal Python example of a rule‑based control system.
+#  Control SystemRuleBasedControl.py is a minimal Python example of a rule‑based control system.How it works:1. Rule Base – A list of rules, each with a condition (facts required) and an action to execute.2. Working Memory – Facts (sensor readings, system state) stored in self.facts.3. Inference Engine – evaluate_rules() matches conditions against facts and triggers actions.4. Execution – Actions can modify system state, send signals, or log events.
