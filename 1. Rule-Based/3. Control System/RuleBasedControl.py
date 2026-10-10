@@ -1,4 +1,4 @@
-# rule_based_control.py
+# RuleBasedControl.py
 
 class RuleBasedControl:
     def __init__(self):
