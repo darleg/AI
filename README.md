@@ -10,4 +10,3 @@ AI is a very complex subject. AI has a wide range of technologies. Oh, I have al
 
 3.	Artificial Neural Network
 4.	Machine Learning
-dd
