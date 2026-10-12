@@ -22,7 +22,6 @@ Activation Functions: Neurons use activation functions to introduce non-linearit
 * Tanh: Squashes input values between -1 and 1.
 
 Training: ANNs require a large amount of data to train effectively. The training process involves feeding data into the network, calculating errors, adjusting weights, and iterating until the model performs well on unseen data.
-dd
 
 Applications:
 * Image Recognition: Identifying objects, faces, and scenes in images.
